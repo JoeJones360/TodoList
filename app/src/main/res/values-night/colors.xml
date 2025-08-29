@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundLight">#121212</color>
+    <color name="backgroundDark">#121212</color>
+    <color name="darkGray">#2C2C2C</color>
+    <color name="lightGray">#3C3C3C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="accentBlue">#64B5F6</color>
+
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+    <color name="md_theme_dark_onPrimary">#381E72</color>
+    <color name="md_theme_dark_primaryContainer">#4F378B</color>
+    <color name="md_theme_dark_onPrimaryContainer">#EADDFF</color>
+</resources>
