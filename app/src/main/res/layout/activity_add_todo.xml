@@ -19,7 +19,6 @@
         android:backgroundTint="@color/white"
         android:inputType="text" />
 
-    <!-- Inline time picker -->
     <TimePicker
         android:id="@+id/timePicker"
         android:layout_width="match_parent"
@@ -28,7 +27,6 @@
         android:layout_marginTop="16dp"
         android:timePickerMode="spinner" />
 
-    <!-- Inline calendar — now fully dark -->
     <CalendarView
         android:id="@+id/calendarView"
         android:layout_width="match_parent"
@@ -42,7 +40,6 @@
         android:weekDayTextAppearance="@style/CalendarWeekDayText"
         android:dateTextAppearance="@style/CalendarDateText" />
 
-    <!-- Save -->
     <com.google.android.material.button.MaterialButton
         android:id="@+id/buttonSave"
         android:layout_width="match_parent"
